@@ -3,15 +3,15 @@ node for tracking : https://github.com/ybdesire/cv-arxiv-daily-vul-llm
 
 ## VulDetect
 
-|Publish Date|Title|Authors|PDF|Code|Comment|
-|---|---|---|---|---|---|
-|**2025-01-23**|**Are We Learning the Right Features?A Framework for Evaluating DL-Based Software Vulnerability Detection Solutions**|Satyaki Das et.al.|[2501.13291](http://arxiv.org/abs/2501.13291)|null|漏洞检测器的测评框架|
-|**2025-01-15**|**Augmenting Smart Contract Decompiler Output through Fine-grained Dependency Analysis and LLM-facilitated Semantic Recovery**|Zeqin Liao et.al.|[2501.08670](http://arxiv.org/abs/2501.08670)|null|通过静态分析和大语言模型结合的方式，优化智能合约反编译器输出，有效提升了反编译代码的质量|
-|**2025-01-09**|**Automating the Detection of Code Vulnerabilities by Analyzing GitHub Issues**|Daniele Cipollone et.al.|[2501.05258](http://arxiv.org/abs/2501.05258)|null|收集了 2019 年 1 月 1 日至 2024 年 6 月 2 日的漏洞数据，经过筛选和处理，最终数据集包含 4379 个 GitHub 问题，其中 844 个与已披露的 CVE 漏洞相关，3535 个与漏洞无关，这些问题来自 31 个不同的代码库。基于嵌入的漏洞分类器，使用嵌入模型将 GitHub 问题转换为向量，再用 XGBoost 进行分类，嵌入模型选择了 OpenAI 的 text-embedding-3-large 和 Nvidia 的 NV-Embed-v2。基于 LLM 的漏洞检测，选用 GPT-3.5-Turbo，通过系统提示让其分析 GitHub 问题并判断是否为漏洞，同时进行了微调以优化性能。|
-|**2025-01-08**|**CGP-Tuning: Structure-Aware Soft Prompt Tuning for Code Vulnerability Detection**|Ruijun Feng et.al.|[2501.04510](http://arxiv.org/abs/2501.04510)|null|none|
-|**2025-01-07**|**How to Select Pre-Trained Code Models for Reuse? A Learning Perspective**|Zhangqian Bi et.al.|[2501.03783](http://arxiv.org/abs/2501.03783)|**[link](https://github.com/CGCL-codes/naturalcc)**|
-|**2025-01-05**|**Predicting IoT Device Vulnerability Fix Times with Survival and Failure Time Models**|Carlos A Rivera A et.al.|[2501.02520](http://arxiv.org/abs/2501.02520)|null|
-|**2025-01-04**|**Leveraging Large Language Models and Machine Learning for Smart Contract Vulnerability Detection**|S M Mostaq Hossain et.al.|[2501.02229](http://arxiv.org/abs/2501.02229)|null|
+|Publish Date|Title|Authors|PDF|Code|Comment|Value|
+|---|---|---|---|---|---|---|
+|**2025-01-23**|**Are We Learning the Right Features?A Framework for Evaluating DL-Based Software Vulnerability Detection Solutions**|Satyaki Das et.al.|[2501.13291](http://arxiv.org/abs/2501.13291)|null|漏洞检测器的测评框架|none|
+|**2025-01-15**|**Augmenting Smart Contract Decompiler Output through Fine-grained Dependency Analysis and LLM-facilitated Semantic Recovery**|Zeqin Liao et.al.|[2501.08670](http://arxiv.org/abs/2501.08670)|null|通过静态分析和大语言模型结合的方式，优化智能合约反编译器输出，有效提升了反编译代码的质量|none|
+|**2025-01-09**|**Automating the Detection of Code Vulnerabilities by Analyzing GitHub Issues**|Daniele Cipollone et.al.|[2501.05258](http://arxiv.org/abs/2501.05258)|null|收集了 2019 年 1 月 1 日至 2024 年 6 月 2 日的漏洞数据，经过筛选和处理，最终数据集包含 4379 个 GitHub 问题，其中 844 个与已披露的 CVE 漏洞相关，3535 个与漏洞无关，这些问题来自 31 个不同的代码库。基于嵌入的漏洞分类器，使用嵌入模型将 GitHub 问题转换为向量，再用 XGBoost 进行分类，嵌入模型选择了 OpenAI 的 text-embedding-3-large 和 Nvidia 的 NV-Embed-v2。基于 LLM 的漏洞检测，选用 GPT-3.5-Turbo，通过系统提示让其分析 GitHub 问题并判断是否为漏洞，同时进行了微调以优化性能。|mid|
+|**2025-01-08**|**CGP-Tuning: Structure-Aware Soft Prompt Tuning for Code Vulnerability Detection**|Ruijun Feng et.al.|[2501.04510](http://arxiv.org/abs/2501.04510)|null|采用代码属性图表示源代码的图形结构信息，代码属性图结合了抽象语法树、控制流图和程序依赖图等多种代码表示形式。结合模型训练上的结构等改进|none|
+|**2025-01-07**|**How to Select Pre-Trained Code Models for Reuse? A Learning Perspective**|Zhangqian Bi et.al.|[2501.03783](http://arxiv.org/abs/2501.03783)|**[link](https://github.com/CGCL-codes/naturalcc)**|代码类模型的比较|low|
+|**2025-01-05**|**Predicting IoT Device Vulnerability Fix Times with Survival and Failure Time Models**|Carlos A Rivera A et.al.|[2501.02520](http://arxiv.org/abs/2501.02520)|null|预测物联网设备漏洞修复时间|none|
+|**2025-01-04**|**Leveraging Large Language Models and Machine Learning for Smart Contract Vulnerability Detection**|S M Mostaq Hossain et.al.|[2501.02229](http://arxiv.org/abs/2501.02229)|null|通过对比经典机器学习模型和微调大语言模型在智能合约漏洞检测方面的表现，发现微调大语言模型在捕捉复杂代码模式和上下文特定漏洞上更具优势，为区块链安全领域的漏洞检测提供了新的思路和方法。|none|
 |**2024-12-30**|**Similar but Patched Code Considered Harmful -- The Impact of Similar but Patched Code on Recurring Vulnerability Detection and How to Remove Them**|Zixuan Tan et.al.|[2412.20740](http://arxiv.org/abs/2412.20740)|null|
 |**2025-01-05**|**Investigating Large Language Models for Code Vulnerability Detection: An Experimental Study**|Xuefeng Jiang et.al.|[2412.18260](http://arxiv.org/abs/2412.18260)|**[link](https://github.com/sakirinn/llm4cvd)**|
 |**2024-12-24**|**Combining GPT and Code-Based Similarity Checking for Effective Smart Contract Vulnerability Detection**|Jango Zhang et.al.|[2412.18225](http://arxiv.org/abs/2412.18225)|null|
