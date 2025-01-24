@@ -6,7 +6,7 @@ node for tracking : https://github.com/ybdesire/cv-arxiv-daily-vul-llm
 |Publish Date|Title|Authors|PDF|Code|Comment|
 |---|---|---|---|---|---|
 |**2025-01-23**|**Are We Learning the Right Features?A Framework for Evaluating DL-Based Software Vulnerability Detection Solutions**|Satyaki Das et.al.|[2501.13291](http://arxiv.org/abs/2501.13291)|null|漏洞检测器的测评框架|
-|**2025-01-15**|**Augmenting Smart Contract Decompiler Output through Fine-grained Dependency Analysis and LLM-facilitated Semantic Recovery**|Zeqin Liao et.al.|[2501.08670](http://arxiv.org/abs/2501.08670)|null|none|
+|**2025-01-15**|**Augmenting Smart Contract Decompiler Output through Fine-grained Dependency Analysis and LLM-facilitated Semantic Recovery**|Zeqin Liao et.al.|[2501.08670](http://arxiv.org/abs/2501.08670)|null|通过静态分析和大语言模型结合的方式，优化智能合约反编译器输出，有效提升了反编译代码的质量|
 |**2025-01-09**|**Automating the Detection of Code Vulnerabilities by Analyzing GitHub Issues**|Daniele Cipollone et.al.|[2501.05258](http://arxiv.org/abs/2501.05258)|null|none|
 |**2025-01-08**|**CGP-Tuning: Structure-Aware Soft Prompt Tuning for Code Vulnerability Detection**|Ruijun Feng et.al.|[2501.04510](http://arxiv.org/abs/2501.04510)|null|none|
 |**2025-01-07**|**How to Select Pre-Trained Code Models for Reuse? A Learning Perspective**|Zhangqian Bi et.al.|[2501.03783](http://arxiv.org/abs/2501.03783)|**[link](https://github.com/CGCL-codes/naturalcc)**|
