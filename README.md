@@ -5,6 +5,7 @@ node for tracking : https://github.com/ybdesire/cv-arxiv-daily-vul-llm
 
 |Publish Date|Title|Authors|PDF|Code|Comment|Value|
 |---|---|---|---|---|---|---|
+|**2024-09**|**Generating API Parameter Security Rules with LLM for API Misuse Detection**|Satyaki Das et.al.|[2409.09288](https://arxiv.org/pdf/2409.09288)|null|用大语言模型（LLM）分析 API 源代码自动生成参数安全规则（APSRs）并检测 API 误用，检测到 210 个未知安全漏洞，150 个被开发者确认|high+|
 |**2025-01-23**|**Are We Learning the Right Features?A Framework for Evaluating DL-Based Software Vulnerability Detection Solutions**|Satyaki Das et.al.|[2501.13291](http://arxiv.org/abs/2501.13291)|null|漏洞检测器的测评框架|none|
 |**2025-01-15**|**Augmenting Smart Contract Decompiler Output through Fine-grained Dependency Analysis and LLM-facilitated Semantic Recovery**|Zeqin Liao et.al.|[2501.08670](http://arxiv.org/abs/2501.08670)|null|通过静态分析和大语言模型结合的方式，优化智能合约反编译器输出，有效提升了反编译代码的质量|none|
 |**2025-01-09**|**Automating the Detection of Code Vulnerabilities by Analyzing GitHub Issues**|Daniele Cipollone et.al.|[2501.05258](http://arxiv.org/abs/2501.05258)|null|收集了 2019 年 1 月 1 日至 2024 年 6 月 2 日的漏洞数据，经过筛选和处理，最终数据集包含 4379 个 GitHub 问题，其中 844 个与已披露的 CVE 漏洞相关，3535 个与漏洞无关，这些问题来自 31 个不同的代码库。基于嵌入的漏洞分类器，使用嵌入模型将 GitHub 问题转换为向量，再用 XGBoost 进行分类，嵌入模型选择了 OpenAI 的 text-embedding-3-large 和 Nvidia 的 NV-Embed-v2。基于 LLM 的漏洞检测，选用 GPT-3.5-Turbo，通过系统提示让其分析 GitHub 问题并判断是否为漏洞，同时进行了微调以优化性能。|mid|
