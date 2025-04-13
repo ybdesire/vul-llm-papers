@@ -5,6 +5,36 @@ note for tracking : https://github.com/ybdesire/cv-arxiv-daily-vul-llm
 
 |Publish Date|Title|Authors|PDF|Code|Comment|Value|
 |---|---|---|---|---|---|---|
+|**2025-04-09**|**Using ML filters to help automated vulnerability repairs: when it helps and when it doesn't**|Maria Camporese et.al.|[2504.07027](http://arxiv.org/abs/2504.07027)|null|
+|**2025-04-07**|**How Do Solidity Versions Affect Vulnerability Detection Tools? An Empirical Study**|Gerardo Iuliano et.al.|[2504.05515](http://arxiv.org/abs/2504.05515)|null| ||
+|**2025-04-07**|**Enhancing Smart Contract Vulnerability Detection in DApps Leveraging Fine-Tuned LLM**|Jiuyang Bu et.al.|[2504.05006](http://arxiv.org/abs/2504.05006)|null| ||
+|**2025-04-07**|**SmartBugBert: BERT-Enhanced Vulnerability Detection for Smart Contract Bytecode**|Jiuyang Bu et.al.|[2504.05002](http://arxiv.org/abs/2504.05002)|null| ||
+|**2025-04-07**|**R2Vul: Learning to Reason about Software Vulnerabilities with Reinforcement Learning and Structured Reasoning Distillation**|Martin Weyssow et.al.|[2504.04699](http://arxiv.org/abs/2504.04699)|null|
+|**2025-04-07**|**Generative Large Language Model usage in Smart Contract Vulnerability Detection**|Peter Ince et.al.|[2504.04685](http://arxiv.org/abs/2504.04685)|null| ||
+|**2025-04-05**|**Responsible Development of Offensive AI**|Ryan Marinelli et.al.|[2504.02701](http://arxiv.org/abs/2504.02701)|**[link](https://github.com/rymarinelli/wormy_ai)**|
+|**2025-03-27**|**Reasoning Under Threat: Symbolic and Neural Techniques for Cybersecurity Verification**|Sarah Veronica et.al.|[2503.22755](http://arxiv.org/abs/2503.22755)|null| ||
+|**2025-03-23**|**Enhancing Software Vulnerability Detection Using Code Property Graphs and Convolutional Neural Networks**|Amanpreet Singh Saimbhi et.al.|[2503.18175](http://arxiv.org/abs/2503.18175)|null| ||
+|**2025-03-22**|**Reasoning with LLMs for Zero-Shot Vulnerability Detection**|Arastoo Zibaeirad et.al.|[2503.17885](http://arxiv.org/abs/2503.17885)|**[link](https://github.com/erroristotle/vulnsage)**| ||
+|**2025-03-19**|**UntrustVul: An Automated Approach for Identifying Untrustworthy Alerts in Vulnerability Detection Models**|Lam Nguyen Tung et.al.|[2503.14852](http://arxiv.org/abs/2503.14852)|null| ||
+|**2025-03-16**|**Computing Modes of Instability of Parameterized Nonlinear Systems for Vulnerability Assessment**|Jinghan Wang et.al.|[2503.12298](http://arxiv.org/abs/2503.12298)|null| ||
+|**2025-03-13**|**HALURust: Exploiting Hallucinations of Large Language Models to Detect Vulnerabilities in Rust**|Yu Luo et.al.|[2503.10793](http://arxiv.org/abs/2503.10793)|null| ||
+|**2025-03-13**|**Vulnerability Detection: From Formal Verification to Large Language Models and Hybrid Approaches: A Comprehensive Overview**|Norbert Tihanyi et.al.|[2503.10784](http://arxiv.org/abs/2503.10784)|null| ||
+|**2025-03-31**|**CASTLE: Benchmarking Dataset for Static Code Analyzers and LLMs towards CWE Detection**|Richard A. Dubniczky et.al.|[2503.09433](http://arxiv.org/abs/2503.09433)|**[link](https://github.com/CASTLE-Benchmark/CASTLE-Benchmark)**| ||
+|**2025-03-10**|**Evaluating LLaMA 3.2 for Software Vulnerability Detection**|José Gonçalves et.al.|[2503.07770](http://arxiv.org/abs/2503.07770)|null| ||
+|**2025-03-10**|**Control Flow-Augmented Decompiler based on Large Language Model**|Peipei Liu et.al.|[2503.07215](http://arxiv.org/abs/2503.07215)|null| ||
+|**2025-03-09**|**R+R: Security Vulnerability Dataset Quality Is Critical**|Anurag Swarnim Yadav et.al.|[2503.06387](http://arxiv.org/abs/2503.06387)|**[link](https://github.com/Anurag-Swarnim-Yadav/DatasetQuality)**| ||
+|**2025-03-06**|**Deep Learning Aided Software Vulnerability Detection: A Survey**|Md Nizam Uddin et.al.|[2503.04002](http://arxiv.org/abs/2503.04002)|null| ||
+|**2025-03-18**|**Benchmarking LLMs and LLM-based Agents in Practical Vulnerability Detection for Code Repositories**|Alperen Yildiz et.al.|[2503.03586](http://arxiv.org/abs/2503.03586)|null| ||
+|**2025-03-03**|**Benchmarking Large Language Models for Multi-Language Software Vulnerability Detection**|Ting Zhang et.al.|[2503.01449](http://arxiv.org/abs/2503.01449)|null| ||
+|**2025-02-22**|**A Multi-Agent Framework for Automated Vulnerability Detection and Repair in Solidity and Move Smart Contracts**|Rabimba Karanjai et.al.|[2502.18515](http://arxiv.org/abs/2502.18515)|null| ||
+|**2025-02-24**|**MTVHunter: Smart Contracts Vulnerability Detection Based on Multi-Teacher Knowledge Translation**|Guokai Sun et.al.|[2502.16955](http://arxiv.org/abs/2502.16955)|**[link](https://github.com/KD-SCVD/MTVHunter)**| ||
+|**2025-02-17**|**SmartLLM: Smart Contract Auditing using Custom Generative AI**|Jun Kevin et.al.|[2502.13167](http://arxiv.org/abs/2502.13167)|null| ||
+|**2025-02-20**|**A Survey of Fuzzing Open-Source Operating Systems**|Kun Hu et.al.|[2502.13163](http://arxiv.org/abs/2502.13163)|**[link](https://github.com/pghk13/survey-osf)**|
+|**2025-02-12**|**LLMs in Software Security: A Survey of Vulnerability Detection Techniques and Insights**|Ze Sheng et.al.|[2502.07049](http://arxiv.org/abs/2502.07049)|null| ||
+|**2025-02-09**|**Large Language Models for In-File Vulnerability Localization Can Be "Lost in the End"**|Francesco Sovrano et.al.|[2502.06898](http://arxiv.org/abs/2502.06898)|null| ||
+|**2025-01-30**|**Evaluating Large Language Models in Vulnerability Detection Under Variable Context Windows**|Jie Lin et.al.|[2502.00064](http://arxiv.org/abs/2502.00064)|null| ||
+|**2025-01-29**|**Fine-Grained 1-Day Vulnerability Detection in Binaries via Patch Code Localization**|Chaopeng Dong et.al.|[2501.17413](http://arxiv.org/abs/2501.17413)|null| ||
+|**2025-02-12**|**One-for-All Does Not Work! Enhancing Vulnerability Detection by Mixture-of-Experts (MoE)**|Xu Yang et.al.|[2501.16454](http://arxiv.org/abs/2501.16454)|null| ||
 |**2024-09**|**Generating API Parameter Security Rules with LLM for API Misuse Detection**|Satyaki Das et.al.|[2409.09288](https://arxiv.org/pdf/2409.09288)|null|用大语言模型（LLM）分析 API 源代码自动生成参数安全规则（APSRs）并检测 API 误用，检测到 210 个未知安全漏洞，150 个被开发者确认|high+|
 |**2025-01-23**|**Are We Learning the Right Features?A Framework for Evaluating DL-Based Software Vulnerability Detection Solutions**|Satyaki Das et.al.|[2501.13291](http://arxiv.org/abs/2501.13291)|null|漏洞检测器的测评框架|none|
 |**2025-01-15**|**Augmenting Smart Contract Decompiler Output through Fine-grained Dependency Analysis and LLM-facilitated Semantic Recovery**|Zeqin Liao et.al.|[2501.08670](http://arxiv.org/abs/2501.08670)|null|通过静态分析和大语言模型结合的方式，优化智能合约反编译器输出，有效提升了反编译代码的质量|none|
