@@ -12,12 +12,12 @@ note for tracking : https://github.com/ybdesire/cv-arxiv-daily-vul-llm
 
 |Publish Date|Title|Authors|PDF|Code|Comment|Value|
 |---|---|---|---|---|---|---|
-|**2025-04-29**|**DejaVuzz: Disclosing Transient Execution Bugs with Dynamic Swappable Memory and Differential Information Flow Tracking assisted Processor Fuzzing**|Jinyan Xu et.al.|[2504.20934](http://arxiv.org/abs/2504.20934)|null|||
-|**2025-04-25**|**LLMpatronous: Harnessing the Power of LLMs For Vulnerability Detection**|Rajesh Yarra et.al.|[2504.18423](http://arxiv.org/abs/2504.18423)|null|||
-|**2025-04-23**|**Context-Enhanced Vulnerability Detection Based on Large Language Model**|Yixin Yang et.al.|[2504.16877](http://arxiv.org/abs/2504.16877)|null|||
-|**2025-04-23**|**Case Study: Fine-tuning Small Language Models for Accurate and Private CWE Detection in Python Code**|Md. Azizul Hakim Bappy et.al.|[2504.16584](http://arxiv.org/abs/2504.16584)|null|||
-|**2025-04-24**|**AI-Based Vulnerability Analysis of NFT Smart Contracts**|Xin Wang et.al.|[2504.16113](http://arxiv.org/abs/2504.16113)|null|||
-|**2025-04-23**|**Automated Static Vulnerability Detection via a Holistic Neuro-symbolic Approach**|Penghui Li et.al.|[2504.16057](http://arxiv.org/abs/2504.16057)|null|||
+|**2025-04-29**|**DejaVuzz: Disclosing Transient Execution Bugs with Dynamic Swappable Memory and Differential Information Flow Tracking assisted Processor Fuzzing**|Jinyan Xu et.al.|[2504.20934](http://arxiv.org/abs/2504.20934)|null|论文提出 DejaVuzz 这一新型处理器模糊测试工具，利用动态可交换内存和差分信息流跟踪技术，有效检测处理器瞬态执行漏洞，在 RISC-V 处理器上评估效果显著，优于现有工具 SpecDoctor|mid|
+|**2025-04-25**|**LLMpatronous: Harnessing the Power of LLMs For Vulnerability Detection**|Rajesh Yarra et.al.|[2504.18423](http://arxiv.org/abs/2504.18423)|null|独立研究者写的，比较粗浅，没有具体数据做支撑|low|
+|**2025-04-23**|**Context-Enhanced Vulnerability Detection Based on Large Language Model**|Yixin Yang et.al.|[2504.16877](http://arxiv.org/abs/2504.16877)|null|利用程序分析提取与漏洞相关的上下文抽象表示，增强 LLMs 的推理能力。通过对函数及其调用函数进行控制流和数据流分析，基于原始 API 抽象函数调用，为 LLMs 提供上下文信息，并研究不同抽象级别和提示策略对漏洞检测的影响。|high--|
+|**2025-04-23**|**Case Study: Fine-tuning Small Language Models for Accurate and Private CWE Detection in Python Code**|Md. Azizul Hakim Bappy et.al.|[2504.16584](http://arxiv.org/abs/2504.16584)|null|用小型语言模型（SLMs）进行 Python 代码中常见弱点枚举（CWE）检测的研究，旨在解决大型语言模型（LLMs）在处理敏感代码时面临的隐私和成本问题。数据集为合成数据集|high--|
+|**2025-04-24**|**AI-Based Vulnerability Analysis of NFT Smart Contracts**|Xin Wang et.al.|[2504.16113](http://arxiv.org/abs/2504.16113)|null|。用于检测 NFT 智能合约中的漏洞。五类漏洞：Risky Mutable Proxy、ERC - 721 Reentrancy、Unlimited Minting、Missing Requirements 和 Public Burn。特征提取部分值得参考|mid+|
+|**2025-04-23**|**Automated Static Vulnerability Detection via a Holistic Neuro-symbolic Approach**|Penghui Li et.al.|[2504.16057](http://arxiv.org/abs/2504.16057)|null|大模型自动提取漏洞模式，转换为Joern查询规则|high++++|
 |**2025-04-22**|**Automated Vulnerability Injection in Solidity Smart Contracts: A Mutation-Based Approach for Benchmark Development**|Gerardo Iuliano et.al.|[2504.15948](http://arxiv.org/abs/2504.15948)|null|||
 |**2025-04-26**|**A Study on Mixup-Inspired Augmentation Methods for Software Vulnerability Detection**|Seyed Shayan Daneshvar et.al.|[2504.15632](http://arxiv.org/abs/2504.15632)|null|||
 |**2025-04-21**|**C2RUST-BENCH: A Minimized, Representative Dataset for C-to-Rust Transpilation Evaluation**|Melih Sirlanci et.al.|[2504.15144](http://arxiv.org/abs/2504.15144)|null|||
