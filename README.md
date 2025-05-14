@@ -12,6 +12,11 @@ note for tracking : https://github.com/ybdesire/cv-arxiv-daily-vul-llm
 
 |Publish Date|Title|Authors|PDF|Code|Comment|Value|
 |---|---|---|---|---|---|---|
+|**2025-05-08**|**Enhancing Large Language Models with Faster Code Preprocessing for Vulnerability Detection**|José Gonçalves et.al.|[2505.05600](http://arxiv.org/abs/2505.05600)|**[link](https://github.com/jp2425/scope2)**|||
+|**2025-05-02**|**Program Semantic Inequivalence Game with Large Language Models**|Antonio Valerio Miceli-Barone et.al.|[2505.03818](http://arxiv.org/abs/2505.03818)|null|||
+|**2025-05-06**|**Directed Greybox Fuzzing via Large Language Model**|Hanxiang Xu et.al.|[2505.03425](http://arxiv.org/abs/2505.03425)|null|||
+|**2025-05-01**|**Enhancing the Cloud Security through Topic Modelling**|Sabbir M. Saleh et.al.|[2505.01463](http://arxiv.org/abs/2505.01463)|null|||
+|**2025-05-02**|**Poster: Machine Learning for Vulnerability Detection as Target Oracle in Automated Fuzz Driver Generation**|Gianpietro Castiglione et.al.|[2505.01123](http://arxiv.org/abs/2505.01123)|null|||
 |**2025-04-29**|**DejaVuzz: Disclosing Transient Execution Bugs with Dynamic Swappable Memory and Differential Information Flow Tracking assisted Processor Fuzzing**|Jinyan Xu et.al.|[2504.20934](http://arxiv.org/abs/2504.20934)|null|论文提出 DejaVuzz 这一新型处理器模糊测试工具，利用动态可交换内存和差分信息流跟踪技术，有效检测处理器瞬态执行漏洞，在 RISC-V 处理器上评估效果显著，优于现有工具 SpecDoctor|mid|
 |**2025-04-25**|**LLMpatronous: Harnessing the Power of LLMs For Vulnerability Detection**|Rajesh Yarra et.al.|[2504.18423](http://arxiv.org/abs/2504.18423)|null|独立研究者写的，比较粗浅，没有具体数据做支撑|low|
 |**2025-04-23**|**Context-Enhanced Vulnerability Detection Based on Large Language Model**|Yixin Yang et.al.|[2504.16877](http://arxiv.org/abs/2504.16877)|null|利用程序分析提取与漏洞相关的上下文抽象表示，增强 LLMs 的推理能力。通过对函数及其调用函数进行控制流和数据流分析，基于原始 API 抽象函数调用，为 LLMs 提供上下文信息，并研究不同抽象级别和提示策略对漏洞检测的影响。|high--|
