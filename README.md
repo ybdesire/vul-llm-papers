@@ -14,14 +14,9 @@ note for tracking : https://github.com/ybdesire/cv-arxiv-daily-vul-llm
 |---|---|---|---|---|---|---|
 |**2025-05-08**|**Enhancing Large Language Models with Faster Code Preprocessing for Vulnerability Detection**|José Gonçalves et.al.|[2505.05600](http://arxiv.org/abs/2505.05600)|**[link](https://github.com/jp2425/scope2)**|提出SCoPE2 继承并拓展了原 SCoPE 框架的功能，支持多种通用的代码转换操作。例如，能够进行字符串泛化、变量名和函数名泛化，通过这些操作可以将代码中具有特定含义但形式多样的元素进行统一化处理，减少因命名差异导致的代码结构复杂性，使代码更易于分析 。同时，它还可以去除代码中的注释，在不影响代码功能的前提下，减少冗余信息，提高代码处理效率；并且能够对代码进行标记化处理，将代码分解为一个个的标记，为后续的分析和处理提供基础。|mid++|
 |**2025-05-02**|**Program Semantic Inequivalence Game with Large Language Models**|Antonio Valerio Miceli-Barone et.al.|[2505.03818](http://arxiv.org/abs/2505.03818)|null|提出通过程序语义不等价博弈训练大语言模型（LLMs），提升其代码理解能力，在多种代码推理任务上取得较好效果|mid++|
-|**2025-05-06**|**Directed Greybox Fuzzing via Large Language Model**|Hanxiang Xu et.al.|[2505.03425](http://arxiv.org/abs/2505.03425)|null|HGFuzzer 框架
-调用链分析：用静态分析查询目标函数调用链，按特定标准筛选可用调用链，为后续步骤提供基础。
-执行条件分析：解析调用链中函数源代码，借助 LLM 分析函数调用执行条件，准确获取到达目标函数所需条件。
-目标测试框架生成：依据调用链、执行条件等生成目标模糊测试框架，利用 RAG 机制解决编译错误，约束模糊测试探索空间。
-可达输入生成：针对复杂输入要求，用 LLM 生成 Python 脚本创建满足执行条件的初始输入，并通过 afl - cov 验证，确保执行路径到达目标函数。
-特定目标变异器生成：基于目标描述、函数源代码等，用 LLM 生成特定目标变异器，经迭代优化，减少输入变异随机性，高效触发目标漏洞。|high-|
-|**2025-05-01**|**Enhancing the Cloud Security through Topic Modelling**|Sabbir M. Saleh et.al.|[2505.01463](http://arxiv.org/abs/2505.01463)|null|||
-|**2025-05-02**|**Poster: Machine Learning for Vulnerability Detection as Target Oracle in Automated Fuzz Driver Generation**|Gianpietro Castiglione et.al.|[2505.01123](http://arxiv.org/abs/2505.01123)|null|||
+|**2025-05-06**|**Directed Greybox Fuzzing via Large Language Model**|Hanxiang Xu et.al.|[2505.03425](http://arxiv.org/abs/2505.03425)|null|HGFuzzer 框架：（1）调用链分析：用静态分析查询目标函数调用链，按特定标准筛选可用调用链，为后续步骤提供基础。（2）执行条件分析：解析调用链中函数源代码，借助 LLM 分析函数调用执行条件，准确获取到达目标函数所需条件。（3）目标测试框架生成：依据调用链、执行条件等生成目标模糊测试框架，利用 RAG 机制解决编译错误，约束模糊测试探索空间。（4）可达输入生成：针对复杂输入要求，用 LLM 生成 Python 脚本创建满足执行条件的初始输入，并通过 afl - cov 验证，确保执行路径到达目标函数。（5）特定目标变异器生成：基于目标描述、函数源代码等，用 LLM 生成特定目标变异器，经迭代优化，减少输入变异随机性，高效触发目标漏洞。|high-|
+|**2025-05-01**|**Enhancing the Cloud Security through Topic Modelling**|Sabbir M. Saleh et.al.|[2505.01463](http://arxiv.org/abs/2505.01463)|null|通过主题建模技术，利用自然语言处理和机器学习方法，分析云安全相关文本数据，旨在提升云应用在 CI/CD 管道中的安全性|low|
+|**2025-05-02**|**Poster: Machine Learning for Vulnerability Detection as Target Oracle in Automated Fuzz Driver Generation**|Gianpietro Castiglione et.al.|[2505.01123](http://arxiv.org/abs/2505.01123)|null|没看出来和oss-fuzz-gen的区别|mid|
 |**2025-04-29**|**DejaVuzz: Disclosing Transient Execution Bugs with Dynamic Swappable Memory and Differential Information Flow Tracking assisted Processor Fuzzing**|Jinyan Xu et.al.|[2504.20934](http://arxiv.org/abs/2504.20934)|null|论文提出 DejaVuzz 这一新型处理器模糊测试工具，利用动态可交换内存和差分信息流跟踪技术，有效检测处理器瞬态执行漏洞，在 RISC-V 处理器上评估效果显著，优于现有工具 SpecDoctor|mid|
 |**2025-04-25**|**LLMpatronous: Harnessing the Power of LLMs For Vulnerability Detection**|Rajesh Yarra et.al.|[2504.18423](http://arxiv.org/abs/2504.18423)|null|独立研究者写的，比较粗浅，没有具体数据做支撑|low|
 |**2025-04-23**|**Context-Enhanced Vulnerability Detection Based on Large Language Model**|Yixin Yang et.al.|[2504.16877](http://arxiv.org/abs/2504.16877)|null|利用程序分析提取与漏洞相关的上下文抽象表示，增强 LLMs 的推理能力。通过对函数及其调用函数进行控制流和数据流分析，基于原始 API 抽象函数调用，为 LLMs 提供上下文信息，并研究不同抽象级别和提示策略对漏洞检测的影响。|high--|
