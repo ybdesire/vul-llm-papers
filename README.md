@@ -12,7 +12,7 @@ note for tracking : https://github.com/ybdesire/cv-arxiv-daily-vul-llm
 
 |Publish Date|Title|Authors|PDF|Code|Comment|Value|
 |---|---|---|---|---|---|---|
-|**2025-05-08**|**Enhancing Large Language Models with Faster Code Preprocessing for Vulnerability Detection**|José Gonçalves et.al.|[2505.05600](http://arxiv.org/abs/2505.05600)|**[link](https://github.com/jp2425/scope2)**|||
+|**2025-05-08**|**Enhancing Large Language Models with Faster Code Preprocessing for Vulnerability Detection**|José Gonçalves et.al.|[2505.05600](http://arxiv.org/abs/2505.05600)|**[link](https://github.com/jp2425/scope2)**|提出SCoPE2 继承并拓展了原 SCoPE 框架的功能，支持多种通用的代码转换操作。例如，能够进行字符串泛化、变量名和函数名泛化，通过这些操作可以将代码中具有特定含义但形式多样的元素进行统一化处理，减少因命名差异导致的代码结构复杂性，使代码更易于分析 。同时，它还可以去除代码中的注释，在不影响代码功能的前提下，减少冗余信息，提高代码处理效率；并且能够对代码进行标记化处理，将代码分解为一个个的标记，为后续的分析和处理提供基础。|mid++|
 |**2025-05-02**|**Program Semantic Inequivalence Game with Large Language Models**|Antonio Valerio Miceli-Barone et.al.|[2505.03818](http://arxiv.org/abs/2505.03818)|null|||
 |**2025-05-06**|**Directed Greybox Fuzzing via Large Language Model**|Hanxiang Xu et.al.|[2505.03425](http://arxiv.org/abs/2505.03425)|null|||
 |**2025-05-01**|**Enhancing the Cloud Security through Topic Modelling**|Sabbir M. Saleh et.al.|[2505.01463](http://arxiv.org/abs/2505.01463)|null|||
