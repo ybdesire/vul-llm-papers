@@ -12,6 +12,26 @@ note for tracking : https://github.com/ybdesire/cv-arxiv-daily-vul-llm
 
 |Publish Date|Title|Authors|PDF|Code|Comment|Value|
 |---|---|---|---|---|---|---|
+|**2025-05-30**|**LPASS: Linear Probes as Stepping Stones for vulnerability detection using compressed LLMs**|Luis Ibanez-Lissen et.al.|[2505.24451](http://arxiv.org/abs/2505.24451)|null|||
+|**2025-05-28**|**BugWhisperer: Fine-Tuning LLMs for SoC Hardware Vulnerability Detection**|Shams Tarek et.al.|[2505.22878](http://arxiv.org/abs/2505.22878)|null|||
+|**2025-05-28**|**Transformers for Secure Hardware Systems: Applications, Challenges, and Outlook**|Banafsheh Saber Latibari et.al.|[2505.22605](http://arxiv.org/abs/2505.22605)|null|||
+|**2025-05-28**|**VulBinLLM: LLM-powered Vulnerability Detection for Stripped Binaries**|Nasir Hussain et.al.|[2505.22010](http://arxiv.org/abs/2505.22010)|null|||
+|**2025-05-27**|**ColorGo: Directed Concolic Execution**|Jia Li et.al.|[2505.21130](http://arxiv.org/abs/2505.21130)|null|||
+|**2025-05-27**|**SV-TrustEval-C: Evaluating Structure and Semantic Reasoning in Large Language Models for Source Code Vulnerability Analysis**|Yansong Li et.al.|[2505.20630](http://arxiv.org/abs/2505.20630)|**[link](https://github.com/Jackline97/SV-TrustEval-C)**|||
+|**2025-05-26**|**SecVulEval: Benchmarking LLMs for Real-World C/C++ Vulnerability Detection**|Md Basim Uddin Ahmed et.al.|[2505.19828](http://arxiv.org/abs/2505.19828)|**[link](https://github.com/basimbd/secvuleval)**|||
+|**2025-05-25**|**An Initial Exploration of Fine-tuning Small Language Models for Smart Contract Reentrancy Vulnerability Detection**|Ignacio Mariano Andreozzi Pofcher et.al.|[2505.19059](http://arxiv.org/abs/2505.19059)|null|||
+|**2025-05-23**|**Learning to Focus: Context Extraction for Efficient Code Vulnerability Detection with Language Models**|Xinran Zheng et.al.|[2505.17460](http://arxiv.org/abs/2505.17460)|null|||
+|**2025-05-23**|**LLM-BSCVM: An LLM-Based Blockchain Smart Contract Vulnerability Management Framework**|Yanli Jin et.al.|[2505.17416](http://arxiv.org/abs/2505.17416)|**[link](https://github.com/sosol717/llm-bscvm)**|||
+|**2025-05-21**|**CRAKEN: Cybersecurity LLM Agent with Knowledge-Based Execution**|Minghao Shao et.al.|[2505.17107](http://arxiv.org/abs/2505.17107)|**[link](https://github.com/nyu-llm-ctf/nyuctf_agents_craken)**|||
+|**2025-05-21**|**An Empirical Analysis of Vulnerability Detection Tools for Solidity Smart Contracts Using Line Level Manually Annotated Vulnerabilities**|Francesco Salzano et.al.|[2505.15756](http://arxiv.org/abs/2505.15756)|null|||
+|**2025-05-22**|**Adaptive Plan-Execute Framework for Smart Contract Security Auditing**|Zhiyuan Wei et.al.|[2505.15242](http://arxiv.org/abs/2505.15242)|null|||
+|**2025-05-21**|**Leveraging Large Language Models for Command Injection Vulnerability Analysis in Python: An Empirical Study on Popular Open-Source Projects**|Yuxuan Wang et.al.|[2505.15088](http://arxiv.org/abs/2505.15088)|null|||
+|**2025-05-21**|**An Empirical Analysis of EOS Blockchain: Architecture, Contract, and Security**|Haiyang Liu et.al.|[2505.15051](http://arxiv.org/abs/2505.15051)|null|||
+|**2025-05-16**|**Let the Trial Begin: A Mock-Court Approach to Vulnerability Detection using LLM-Based Agents**|Ratnadira Widyasari et.al.|[2505.10961](http://arxiv.org/abs/2505.10961)|null|||
+|**2025-05-15**|**Can You Really Trust Code Copilots? Evaluating Large Language Models from a Code Security Perspective**|Yutao Mou et.al.|[2505.10494](http://arxiv.org/abs/2505.10494)|**[link](https://github.com/murraytom/cov-eval)**|||
+|**2025-05-21**|**Are Sparse Autoencoders Useful for Java Function Bug Detection?**|Rui Melo et.al.|[2505.10375](http://arxiv.org/abs/2505.10375)|null|||
+|**2025-05-13**|**ICVul: A Well-labeled C/C++ Vulnerability Dataset with Comprehensive Metadata and VCCs**|Chaomeng Lu et.al.|[2505.08503](http://arxiv.org/abs/2505.08503)|**[link](https://github.com/chaomeng-lu/icvul)**|||
+|**2025-05-12**|**A Preliminary Study of Large Language Models for Multilingual Vulnerability Detection**|Junji Yu et.al.|[2505.07376](http://arxiv.org/abs/2505.07376)|null|||
 |**2025-05-08**|**Enhancing Large Language Models with Faster Code Preprocessing for Vulnerability Detection**|José Gonçalves et.al.|[2505.05600](http://arxiv.org/abs/2505.05600)|**[link](https://github.com/jp2425/scope2)**|提出SCoPE2 继承并拓展了原 SCoPE 框架的功能，支持多种通用的代码转换操作。例如，能够进行字符串泛化、变量名和函数名泛化，通过这些操作可以将代码中具有特定含义但形式多样的元素进行统一化处理，减少因命名差异导致的代码结构复杂性，使代码更易于分析 。同时，它还可以去除代码中的注释，在不影响代码功能的前提下，减少冗余信息，提高代码处理效率；并且能够对代码进行标记化处理，将代码分解为一个个的标记，为后续的分析和处理提供基础。|mid++|
 |**2025-05-02**|**Program Semantic Inequivalence Game with Large Language Models**|Antonio Valerio Miceli-Barone et.al.|[2505.03818](http://arxiv.org/abs/2505.03818)|null|提出通过程序语义不等价博弈训练大语言模型（LLMs），提升其代码理解能力，在多种代码推理任务上取得较好效果|mid++|
 |**2025-05-06**|**Directed Greybox Fuzzing via Large Language Model**|Hanxiang Xu et.al.|[2505.03425](http://arxiv.org/abs/2505.03425)|null|HGFuzzer 框架：（1）调用链分析：用静态分析查询目标函数调用链，按特定标准筛选可用调用链，为后续步骤提供基础。（2）执行条件分析：解析调用链中函数源代码，借助 LLM 分析函数调用执行条件，准确获取到达目标函数所需条件。（3）目标测试框架生成：依据调用链、执行条件等生成目标模糊测试框架，利用 RAG 机制解决编译错误，约束模糊测试探索空间。（4）可达输入生成：针对复杂输入要求，用 LLM 生成 Python 脚本创建满足执行条件的初始输入，并通过 afl - cov 验证，确保执行路径到达目标函数。（5）特定目标变异器生成：基于目标描述、函数源代码等，用 LLM 生成特定目标变异器，经迭代优化，减少输入变异随机性，高效触发目标漏洞。|high-|
