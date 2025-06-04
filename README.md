@@ -13,12 +13,12 @@ note for tracking : https://github.com/ybdesire/cv-arxiv-daily-vul-llm
 |Publish Date|Title|Authors|PDF|Code|Comment|Value|
 |---|---|---|---|---|---|---|
 |**2025-05-30**|**LPASS: Linear Probes as Stepping Stones for vulnerability detection using compressed LLMs**|Luis Ibanez-Lissen et.al.|[2505.24451](http://arxiv.org/abs/2505.24451)|null|||
-|**2025-05-28**|**BugWhisperer: Fine-Tuning LLMs for SoC Hardware Vulnerability Detection**|Shams Tarek et.al.|[2505.22878](http://arxiv.org/abs/2505.22878)|null|||
+|**2025-05-28**|**BugWhisperer: Fine-Tuning LLMs for SoC Hardware Vulnerability Detection**|Shams Tarek et.al.|[2505.22878](http://arxiv.org/abs/2505.22878)|null|生成 4000 个漏洞 SoC 设计实例，使用 LoRA 技术优化训练。微调后的开源模型显著优于未微调版本。例如，Mistral-7B-instruct 微调后准确率达 84.8%|high--|
 |**2025-05-28**|**Transformers for Secure Hardware Systems: Applications, Challenges, and Outlook**|Banafsheh Saber Latibari et.al.|[2505.22605](http://arxiv.org/abs/2505.22605)|null|||
-|**2025-05-28**|**VulBinLLM: LLM-powered Vulnerability Detection for Stripped Binaries**|Nasir Hussain et.al.|[2505.22010](http://arxiv.org/abs/2505.22010)|null|||
+|**2025-05-28**|**VulBinLLM: LLM-powered Vulnerability Detection for Stripped Binaries**|Nasir Hussain et.al.|[2505.22010](http://arxiv.org/abs/2505.22010)|null|使用 LLM（如 GPT-4o）优化反编译代码，在不改变功能的前提下添加漏洞相关注释（如 CWE 提示）、重命名变量、简化结构，使漏洞特征更突出。例如，在矩阵乘法函数中显式标注 “潜在缓冲区溢出” 注释。|high++|
 |**2025-05-27**|**ColorGo: Directed Concolic Execution**|Jia Li et.al.|[2505.21130](http://arxiv.org/abs/2505.21130)|null|||
 |**2025-05-27**|**SV-TrustEval-C: Evaluating Structure and Semantic Reasoning in Large Language Models for Source Code Vulnerability Analysis**|Yansong Li et.al.|[2505.20630](http://arxiv.org/abs/2505.20630)|**[link](https://github.com/Jackline97/SV-TrustEval-C)**|||
-|**2025-05-26**|**SecVulEval: Benchmarking LLMs for Real-World C/C++ Vulnerability Detection**|Md Basim Uddin Ahmed et.al.|[2505.19828](http://arxiv.org/abs/2505.19828)|**[link](https://github.com/basimbd/secvuleval)**|||
+|**2025-05-26**|**SecVulEval: Benchmarking LLMs for Real-World C/C++ Vulnerability Detection**|Md Basim Uddin Ahmed et.al.|[2505.19828](http://arxiv.org/abs/2505.19828)|**[link](https://github.com/basimbd/secvuleval)**|本文提出了 SECVULEVAL，这是一个全面的基准数据集，旨在支持 LLMs 和其他检测方法的细粒度评估，具备丰富的上下文信息，专注于语句级的真实世界 C/C++ 漏洞检测。新数据。|high|
 |**2025-05-25**|**An Initial Exploration of Fine-tuning Small Language Models for Smart Contract Reentrancy Vulnerability Detection**|Ignacio Mariano Andreozzi Pofcher et.al.|[2505.19059](http://arxiv.org/abs/2505.19059)|null|||
 |**2025-05-23**|**Learning to Focus: Context Extraction for Efficient Code Vulnerability Detection with Language Models**|Xinran Zheng et.al.|[2505.17460](http://arxiv.org/abs/2505.17460)|null|||
 |**2025-05-23**|**LLM-BSCVM: An LLM-Based Blockchain Smart Contract Vulnerability Management Framework**|Yanli Jin et.al.|[2505.17416](http://arxiv.org/abs/2505.17416)|**[link](https://github.com/sosol717/llm-bscvm)**|||
@@ -42,7 +42,7 @@ note for tracking : https://github.com/ybdesire/cv-arxiv-daily-vul-llm
 |**2025-04-23**|**Context-Enhanced Vulnerability Detection Based on Large Language Model**|Yixin Yang et.al.|[2504.16877](http://arxiv.org/abs/2504.16877)|null|利用程序分析提取与漏洞相关的上下文抽象表示，增强 LLMs 的推理能力。通过对函数及其调用函数进行控制流和数据流分析，基于原始 API 抽象函数调用，为 LLMs 提供上下文信息，并研究不同抽象级别和提示策略对漏洞检测的影响。|high--|
 |**2025-04-23**|**Case Study: Fine-tuning Small Language Models for Accurate and Private CWE Detection in Python Code**|Md. Azizul Hakim Bappy et.al.|[2504.16584](http://arxiv.org/abs/2504.16584)|null|用小型语言模型（SLMs）进行 Python 代码中常见弱点枚举（CWE）检测的研究，旨在解决大型语言模型（LLMs）在处理敏感代码时面临的隐私和成本问题。数据集为合成数据集|high--|
 |**2025-04-24**|**AI-Based Vulnerability Analysis of NFT Smart Contracts**|Xin Wang et.al.|[2504.16113](http://arxiv.org/abs/2504.16113)|null|。用于检测 NFT 智能合约中的漏洞。五类漏洞：Risky Mutable Proxy、ERC - 721 Reentrancy、Unlimited Minting、Missing Requirements 和 Public Burn。特征提取部分值得参考|mid+|
-|**2025-04-23**|**Automated Static Vulnerability Detection via a Holistic Neuro-symbolic Approach**|Penghui Li et.al.|[2504.16057](http://arxiv.org/abs/2504.16057)|null|大模型自动提取漏洞模式，转换为Joern查询规则|high++++|
+|**2025-04-23**|**Automated Static Vulnerability Detection via a Holistic Neuro-symbolic Approach**|Penghui Li et.al.|[2504.16057](http://arxiv.org/abs/2504.16057)|null|大模型从历史有洞代码片段中，提取漏洞模式，转换为Joern 和CodeQL查询语句，并根据静态运行情况修复/优化查询语句，挖到7个真实世界新漏洞|high++++|
 |**2025-04-22**|**Automated Vulnerability Injection in Solidity Smart Contracts: A Mutation-Based Approach for Benchmark Development**|Gerardo Iuliano et.al.|[2504.15948](http://arxiv.org/abs/2504.15948)|null|||
 |**2025-04-26**|**A Study on Mixup-Inspired Augmentation Methods for Software Vulnerability Detection**|Seyed Shayan Daneshvar et.al.|[2504.15632](http://arxiv.org/abs/2504.15632)|null|||
 |**2025-04-21**|**C2RUST-BENCH: A Minimized, Representative Dataset for C-to-Rust Transpilation Evaluation**|Melih Sirlanci et.al.|[2504.15144](http://arxiv.org/abs/2504.15144)|null|||
