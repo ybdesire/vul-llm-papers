@@ -12,6 +12,29 @@ note for tracking : https://github.com/ybdesire/cv-arxiv-daily-vul-llm
 
 |Publish Date|Title|Authors|PDF|Code|Comment|Value|
 |---|---|---|---|---|---|---|
+|**2025-06-26**|**Boosting Vulnerability Detection with Inter-function Multilateral Association Insights**|Shaojian Qiu et.al.|[2506.21014](http://arxiv.org/abs/2506.21014)|null|||
+|**2025-06-25**|**Generative AI for Vulnerability Detection in 6G Wireless Networks: Advances, Case Study, and Future Directions**|Shuo Yang et.al.|[2506.20488](http://arxiv.org/abs/2506.20488)|null|||
+|**2025-06-25**|**Smart Cuts: Enhance Active Learning for Vulnerability Detection by Pruning Bad Seeds**|Xiang Lan et.al.|[2506.20444](http://arxiv.org/abs/2506.20444)|null|||
+|**2025-06-25**|**SV-LLM: An Agentic Approach for SoC Security Verification using Large Language Models**|Dipayan Saha et.al.|[2506.20415](http://arxiv.org/abs/2506.20415)|null|||
+|**2025-06-24**|**PhishingHook: Catching Phishing Ethereum Smart Contracts leveraging EVM Opcodes**|Pasquale De Rosa et.al.|[2506.19480](http://arxiv.org/abs/2506.19480)|null|||
+|**2025-06-24**|**FuncVul: An Effective Function Level Vulnerability Detection Model using LLM and Code Chunk**|Sajal Halder et.al.|[2506.19453](http://arxiv.org/abs/2506.19453)|null|||
+|**2025-06-23**|**Smart-LLaMA-DPO: Reinforced Large Language Model for Explainable Smart Contract Vulnerability Detection**|Lei Yu et.al.|[2506.18245](http://arxiv.org/abs/2506.18245)|null|||
+|**2025-06-21**|**SAVANT: Vulnerability Detection in Application Dependencies through Semantic-Guided Reachability Analysis**|Wang Lingxiang et.al.|[2506.17798](http://arxiv.org/abs/2506.17798)|null|||
+|**2025-06-18**|**ETrace:Event-Driven Vulnerability Detection in Smart Contracts via LLM-Based Trace Analysis**|Chenyang Peng et.al.|[2506.15790](http://arxiv.org/abs/2506.15790)|null|||
+|**2025-06-20**|**Model Context Protocol (MCP) at First Glance: Studying the Security and Maintainability of MCP Servers**|Mohammed Mehedi Hasan et.al.|[2506.13538](http://arxiv.org/abs/2506.13538)|**[link](https://github.com/sailresearch/replication-25-mcp-server-empirical-study)**|||
+|**2025-06-13**|**Today's Cat Is Tomorrow's Dog: Accounting for Time-Based Changes in the Labels of ML Vulnerability Detection Approaches**|Ranindya Paramitha et.al.|[2506.11939](http://arxiv.org/abs/2506.11939)|null|||
+|**2025-06-13**|**Identifying Helpful Context for LLM-based Vulnerability Repair: A Preliminary Study**|Gábor Antal et.al.|[2506.11561](http://arxiv.org/abs/2506.11561)|null|||
+|**2025-06-25**|**VulStamp: Vulnerability Assessment using Large Language Model**|Hao Shen et.al.|[2506.11484](http://arxiv.org/abs/2506.11484)|null|||
+|**2025-06-12**|**AI-Based Software Vulnerability Detection: A Systematic Literature Review**|Samiha Shimmi et.al.|[2506.10280](http://arxiv.org/abs/2506.10280)|null|||
+|**2025-06-11**|**Expert-in-the-Loop Systems with Cross-Domain and In-Domain Few-Shot Learning for Software Vulnerability Detection**|David Farr et.al.|[2506.10104](http://arxiv.org/abs/2506.10104)|null|||
+|**2025-06-09**|**Large Language Models for Multilingual Vulnerability Detection: How Far Are We?**|Honglin Shu et.al.|[2506.07503](http://arxiv.org/abs/2506.07503)|**[link](https://github.com/spanshu96/large-language-model-for-multilingual-vulnerability-detection)**|||
+|**2025-06-09**|**Boosting Vulnerability Detection of LLMs via Curriculum Preference Optimization with Synthetic Reasoning Data**|Xin-Cheng Wen et.al.|[2506.07390](http://arxiv.org/abs/2506.07390)|**[link](https://github.com/xin-cheng-wen/po4vul)**|||
+|**2025-06-07**|**Ai-Driven Vulnerability Analysis in Smart Contracts: Trends, Challenges and Future Directions**|Mesut Ozdag et.al.|[2506.06735](http://arxiv.org/abs/2506.06735)|null|||
+|**2025-06-06**|**Obfuscation-Resilient Binary Code Similarity Analysis using Dominance Enhanced Semantic Graph**|Yufeng Wang et.al.|[2506.06161](http://arxiv.org/abs/2506.06161)|null|||
+|**2025-06-20**|**SafeGenBench: A Benchmark Framework for Security Vulnerability Detection in LLM-Generated Code**|Xinghang Li et.al.|[2506.05692](http://arxiv.org/abs/2506.05692)|null|||
+|**2025-06-05**|**Explainer-guided Targeted Adversarial Attacks against Binary Code Similarity Detection Models**|Mingjie Chen et.al.|[2506.05430](http://arxiv.org/abs/2506.05430)|null|||
+|**2025-06-05**|**A Multi-Dataset Evaluation of Models for Automated Vulnerability Repair**|Zanis Ali Khan et.al.|[2506.04987](http://arxiv.org/abs/2506.04987)|null|||
+|**2025-06-11**|**Mono: Is Your "Clean" Vulnerability Dataset Really Solvable? Exposing and Trapping Undecidable Patches and Beyond**|Zeyu Gao et.al.|[2506.03651](http://arxiv.org/abs/2506.03651)|**[link](https://github.com/vul337/mono)**|||
 |**2025-05-30**|**LPASS: Linear Probes as Stepping Stones for vulnerability detection using compressed LLMs**|Luis Ibanez-Lissen et.al.|[2505.24451](http://arxiv.org/abs/2505.24451)|null|||
 |**2025-05-28**|**BugWhisperer: Fine-Tuning LLMs for SoC Hardware Vulnerability Detection**|Shams Tarek et.al.|[2505.22878](http://arxiv.org/abs/2505.22878)|null|生成 4000 个漏洞 SoC 设计实例，使用 LoRA 技术优化训练。微调后的开源模型显著优于未微调版本。例如，Mistral-7B-instruct 微调后准确率达 84.8%|high--|
 |**2025-05-28**|**Transformers for Secure Hardware Systems: Applications, Challenges, and Outlook**|Banafsheh Saber Latibari et.al.|[2505.22605](http://arxiv.org/abs/2505.22605)|null|||
