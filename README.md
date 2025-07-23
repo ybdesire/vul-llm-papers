@@ -12,6 +12,19 @@ note for tracking : https://github.com/ybdesire/cv-arxiv-daily-vul-llm
 
 |Publish Date|Title|Authors|PDF|Code|Comment|Value|
 |---|---|---|---|---|---|---|
+|**2025-07-19**|**On the Effect of Token Merging on Pre-trained Models for Code**|Mootez Saad et.al.|[2507.14423](http://arxiv.org/abs/2507.14423)|null|||
+|**2025-07-17**|**Architectural Backdoors in Deep Learning: A Survey of Vulnerabilities, Detection, and Defense**|Victoria Childress et.al.|[2507.12919](http://arxiv.org/abs/2507.12919)|null|||
+|**2025-07-16**|**LLAMA: Multi-Feedback Smart Contract Fuzzing Framework with LLM-Guided Seed Generation**|Keke Gai et.al.|[2507.12084](http://arxiv.org/abs/2507.12084)|null|||
+|**2025-07-15**|**MalCodeAI: Autonomous Vulnerability Detection and Remediation via Language Agnostic Code Reasoning**|Jugal Gajjar et.al.|[2507.10898](http://arxiv.org/abs/2507.10898)|null|||
+|**2025-07-13**|**It Only Gets Worse: Revisiting DL-Based Vulnerability Detectors from a Practical Perspective**|Yunqian Wang et.al.|[2507.09529](http://arxiv.org/abs/2507.09529)|null|||
+|**2025-07-11**|**White-Basilisk: A Hybrid Model for Code Vulnerability Detection**|Ioannis Lamprou et.al.|[2507.08540](http://arxiv.org/abs/2507.08540)|null|||
+|**2025-07-10**|**Autonomous AI-based Cybersecurity Framework for Critical Infrastructure: Real-Time Threat Mitigation**|Jenifer Paulraj et.al.|[2507.07416](http://arxiv.org/abs/2507.07416)|null|||
+|**2025-07-09**|**Disa: Accurate Learning-based Static Disassembly with Attentions**|Peicheng Wang et.al.|[2507.07246](http://arxiv.org/abs/2507.07246)|null|||
+|**2025-07-03**|**CORE: Benchmarking LLMs Code Reasoning Capabilities through Static Analysis Tasks**|Danning Xie et.al.|[2507.05269](http://arxiv.org/abs/2507.05269)|null|||
+|**2025-07-03**|**Improving LLM Reasoning for Vulnerability Detection via Group Relative Policy Optimization**|Marco Simoni et.al.|[2507.03051](http://arxiv.org/abs/2507.03051)|null|||
+|**2025-06-30**|**Are AI-Generated Fixes Secure? Analyzing LLM and Agent Patches on SWE-bench**|Amirali Sajadi et.al.|[2507.02976](http://arxiv.org/abs/2507.02976)|null|||
+|**2025-07-19**|**QLPro: Automated Code Vulnerability Discovery via LLM and Static Code Analysis Integration**|Junze Hu et.al.|[2506.23644](http://arxiv.org/abs/2506.23644)|null|||
+|**2025-06-30**|**Improving vulnerability type prediction and line-level detection via adversarial training-based data augmentation and multi-task learning**|Siyu Chen et.al.|[2506.23534](http://arxiv.org/abs/2506.23534)|null|||
 |**2025-06-26**|**Boosting Vulnerability Detection with Inter-function Multilateral Association Insights**|Shaojian Qiu et.al.|[2506.21014](http://arxiv.org/abs/2506.21014)|null|传统基于深度学习的检测方法多聚焦于独立函数，忽略函数间复杂的多边关联，导致难以检测由多边交互引发的漏洞(1)函数内特征生成：使用 Joern 工具将函数解析为代码属性图（CPG），融合抽象语法树（AST）、控制流图（CFG）和程序依赖图（PDG），通过门控残差图神经网络（GGNN）提取函数内特征。(2)函数间特征提取：通过程序切片技术从 PDG 中提取代码行为，聚类生成公共行为集合，将其编码为超边，构建代码行为超图（CBH），利用超图神经网络（HGNN）提取多边关联特征。(3)漏洞检测：结合函数内与多边关联特征，通过逻辑回归进行二分类，使用交叉熵损失优化模型。|high+|
 |**2025-06-25**|**Generative AI for Vulnerability Detection in 6G Wireless Networks: Advances, Case Study, and Future Directions**|Shuo Yang et.al.|[2506.20488](http://arxiv.org/abs/2506.20488)|null|这篇论文探讨了生成式人工智能（GAI）在 6G 无线网络漏洞检测中的应用，提出了一个三层框架，并通过案例研究和未来方向分析，为构建更安全的 6G 网络提供了思路|mid-|
 |**2025-06-25**|**Smart Cuts: Enhance Active Learning for Vulnerability Detection by Pruning Bad Seeds**|Xiang Lan et.al.|[2506.20444](http://arxiv.org/abs/2506.20444)|null|通过识别和过滤漏洞检测数据集中的 “坏种子”（难以学习的离群样本）来提升主动学习的效率，从而改进漏洞检测模型的训练效果|high--|
