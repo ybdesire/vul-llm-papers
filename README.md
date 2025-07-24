@@ -22,7 +22,7 @@ note for tracking : https://github.com/ybdesire/cv-arxiv-daily-vul-llm
 |**2025-07-15**|**MalCodeAI: Autonomous Vulnerability Detection and Remediation via Language Agnostic Code Reasoning**|Jugal Gajjar et.al.|[2507.10898](http://arxiv.org/abs/2507.10898)|null|借助LoRA微调的 Qwen2.5-Coder-3B-Instruct 模型，可在 14 种编程语言上提供可扩展且准确的结果|high-|
 |**2025-07-13**|**It Only Gets Worse: Revisiting DL-Based Vulnerability Detectors from a Practical Perspective**|Yunqian Wang et.al.|[2507.09529](http://arxiv.org/abs/2507.09529)|null|这篇论文围绕基于深度学习（DL）的漏洞检测器展开了深入研究，提出了名为 VULTEGRA 的新型评估框架，从多个维度对当前最先进的（SOTA）基于深度学习的漏洞检测器进行了评估与分析。|mid+|
 |**2025-07-11**|**White-Basilisk: A Hybrid Model for Code Vulnerability Detection**|Ioannis Lamprou et.al.|[2507.08540](http://arxiv.org/abs/2507.08540)|null|White-Basilisk 以仅 2 亿参数的规模，在代码漏洞检测任务中超越了参数规模达其 35 倍的大型模型，用实力证明了高效架构设计比单纯堆砌参数更具颠覆性。这种架构使模型能处理长达 128,000 tokens 的序列，是典型 Transformer 模型的 8 倍以上，足以一次性分析整个代码库。
-|high++++|
+|high+|
 |**2025-07-10**|**Autonomous AI-based Cybersecurity Framework for Critical Infrastructure: Real-Time Threat Mitigation**|Jenifer Paulraj et.al.|[2507.07416](http://arxiv.org/abs/2507.07416)|null|||
 |**2025-07-09**|**Disa: Accurate Learning-based Static Disassembly with Attentions**|Peicheng Wang et.al.|[2507.07246](http://arxiv.org/abs/2507.07246)|null|||
 |**2025-07-03**|**CORE: Benchmarking LLMs Code Reasoning Capabilities through Static Analysis Tasks**|Danning Xie et.al.|[2507.05269](http://arxiv.org/abs/2507.05269)|null|||
