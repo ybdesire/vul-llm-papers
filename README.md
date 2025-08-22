@@ -16,6 +16,7 @@ note for tracking : https://github.com/ybdesire/cv-arxiv-daily-vul-llm
 
 |Publish Date|Title|Authors|PDF|Code|Comment|Value|
 |---|---|---|---|---|---|---|
+|**2025-04-xx**|**BugLens. The Hitchhiker's Guide to Program Analysis, Part II: Deep Thoughts by LLMs**|Haonan Li et.al.|[2504.11711](https://arxiv.org/pdf/2504.11711)|[null](https://github.com/seclab-ucr/BugLens)|BugLens漏洞检测分两步：（1）首先用静态代码分析工具（Suture/CodeQL）分析得到潜在漏洞，（2）然后用LLM来做后续“关键操作可达性分析”、“污点数据流分析”、“漏洞可被触发与影响分析”。LLM基于postgres数据库做代码检索构造上下文，提示词进行分析。同时还做了基于LLM的变量名推理，弥补了静态代码分析工具生成IR分析，造成变量名丢失的问题。最终实现了 72% 的精度，发现4个新漏洞。这项工作还开源了|high|
 |**2025-07-19**|**On the Effect of Token Merging on Pre-trained Models for Code**|Mootez Saad et.al.|[2507.14423](http://arxiv.org/abs/2507.14423)|null|这篇论文提出的令牌合并策略，为解决该问题提供了有效思路，既能节省计算资源，又在多数情况下对模型性能影响甚微，甚至有所提升。在漏洞检测任务中，也有 15% 左右的计算量减少|high-|
 |**2025-07-17**|**Architectural Backdoors in Deep Learning: A Survey of Vulnerabilities, Detection, and Defense**|Victoria Childress et.al.|[2507.12919](http://arxiv.org/abs/2507.12919)|null|深度学习架构中的漏洞|low|
 |**2025-07-16**|**LLAMA: Multi-Feedback Smart Contract Fuzzing Framework with LLM-Guided Seed Generation**|Keke Gai et.al.|[2507.12084](http://arxiv.org/abs/2507.12084)|null|基于 LLM 的多反馈智能合约模糊测试框架，类似fuzz种子生成|mid|
