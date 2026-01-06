@@ -4,6 +4,7 @@ note for tracking : https://github.com/ybdesire/cv-arxiv-daily-vul-llm
 ## good references
 
 1. https://github.com/huhusmang/Awesome-LLMs-for-Vulnerability-Detection
+2. https://github.com/gai4se/LLM4SE
 
 ## FirmwareVulDetect
 
